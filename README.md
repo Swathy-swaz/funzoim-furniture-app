@@ -5,13 +5,13 @@ A new Flutter project.
  Furniture App UI :
 
  Snapshots
- ![Welcome Page](welcome.jpeg)
- ![Login Page](login.jpeg)
- ![SignUp](signup.jpeg)
- ![Product Page](productPage1.jpeg)
- ![Product Page](productPage2.jpeg)
- ![Detail Page](detailPage1.jpeg)
- ![Detail Page](detailPage2.jpeg)
+ ![Welcome Page](Screenshort/welcome.jpeg)
+ ![Login Page](Screenshort/login.jpeg)
+ ![SignUp](Screenshort/signup.jpeg)
+ ![Product Page](Screenshort/productPage1.jpeg)
+ ![Product Page](Screenshort/productPage2.jpeg)
+ ![Detail Page](Screenshort/detailPage1.jpeg)
+ ![Detail Page](Screenshort/detailPage2.jpeg)
  
 
 
