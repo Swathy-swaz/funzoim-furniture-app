@@ -2,9 +2,21 @@
 
 A new Flutter project.
 
-## Getting Started
+ Furniture App UI :
 
-This project is a starting point for a Flutter application.
+ Snapshots
+ ![Welcome Page](welcome.jpeg)
+ ![Login Page](login.jpeg)
+ ![SignUp](signup.jpeg)
+ ![Product Page](productPage1.jpeg)
+ ![Product Page](productPage2.jpeg)
+ ![Detail Page](detailPage1.jpeg)
+ ![Detail Page](detailPage2.jpeg)
+ 
+
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
